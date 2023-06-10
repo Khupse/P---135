@@ -1,0 +1,48 @@
+body 
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+    font-size: large;
+    width: 100%;
+    margin: 0px;
+}
+
+p {
+      color: black;
+      margin: 0px;
+      font-size: small;
+}
+
+.object_name{
+
+     font-size: 15px;
+     font-weight: bold;
+}
+
+.copy_right_footer
+{
+
+     position: fixed;
+     color: #6c757d ;
+     width: 100%;
+     bottom: 0;
+     background-color: #f5f5f5;
+     line-height: 3;
+     text-align: center;
+}
+
+.canvas
+{
+    background-color: azure;
+    box-shadow : 5px 5px 5px White;
+    border-radius: 10px;
+}
+
+
+
+
+
